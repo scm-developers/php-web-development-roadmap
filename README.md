@@ -27,8 +27,9 @@
 
 ## Recommand Resources
 - PHP
-  - [PHP Basic (Book)](https://eimaung.com/professional-web-developer)
-  - [PHP Basic (Video)](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW)
+  - [PHP Basic (Book)](https://eimaung.com/professional-web-developer) By Ei Mg
+  - [PHP Basic (Video)](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW) By Codecourse
+  - [PHP Basic (Video)](https://laracasts.com/series/php-for-beginners) By JEFFREY WAY
 
 - Framework (Laravel)
   - [Laravel Crash Course 2020 (video)](https://www.youtube.com/watch?v=MFh0Fd7BsjE)

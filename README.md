@@ -12,6 +12,7 @@
   - [အခန်း (၅) – VERSION CONTROL SYSTEM](https://eimaung.com/rockstar-developer/) [PDF]
 - Learn PHP Basic
   - Variable
+  - Constant
   - Data Types
     - Integer
     - String
@@ -35,6 +36,10 @@
   - Conditional Statement
   - Keywords
   - Looping
+    - for
+    - while
+    - do while
+    - foreach
   - Function
   - Error Handling (try, catch, exception)
   - Session
@@ -49,6 +54,7 @@
   - Regular Expression (optional)
   - lambda function
   - Closure
+  - include, include one, require, require one
 
 - (Project) Login
   - [Download Project](https://github.com/scm-ojt/login)

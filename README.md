@@ -11,9 +11,9 @@
 - Git (VCS - Verion Control System)
   - [အခန်း (၅) – VERSION CONTROL SYSTEM](https://eimaung.com/rockstar-developer/) [PDF]
 - Learn PHP Basic
-  - Variable
-  - Constant
-  - Data Types
+  - [Variable](https://www.php.net/manual/en/language.variables.variable.php)
+  - [Constants](https://www.php.net/manual/en/language.constants.php)
+  - [Data Types](https://www.php.net/manual/en/language.types.php)
     - Integer
     - String
     - Boolean
@@ -23,9 +23,9 @@
       - Multiple Dimitation Array
     - Object
     - Null
-  - Comment
-  - Concatination
-  - Operator
+  - [Comment](https://www.php.net/manual/en/language.basic-syntax.comments.php)
+  - [Concatination](https://www.php.net/manual/en/language.operators.string.php)
+  - [Operator](https://www.php.net/manual/en/language.operators.php)
     - Arithmetic operators
     - Assignment operators
     - Comparison operators
@@ -33,14 +33,25 @@
     - Logical operators
     - Ternary Operator
     - Null Coalescing Operator
-  - Conditional Statement
-  - Keywords
-  - Looping
+  - [Conditional Statement](https://www.php.net/manual/en/control-structures.if.php)
+    - if
+    - else
+    - elseif/else if
+    - switch
+    - break
+    - continue
+  - [Keywords](https://www.php.net/manual/en/reserved.keywords.php)
+  - [Looping](https://www.php.net/manual/en/control-structures.for.php)
     - for
     - while
     - do while
     - foreach
-  - Function
+  - [Function](https://www.php.net/manual/en/functions.user-defined.php)
+    - define function
+    - arguments
+    - return
+    - [variable function](https://www.php.net/manual/en/functions.variable-functions.php#functions.variable-functions)
+    - built-in functions
   - Error Handling (try, catch, exception)
   - Session
   - Cookie
@@ -54,7 +65,7 @@
   - Regular Expression (optional)
   - lambda function
   - Closure
-  - include, include one, require, require one
+  - [include](https://www.php.net/manual/en/function.include.php#function.include), include one, require, require one
 
 - (Project) Login
   - [Download Project](https://github.com/scm-ojt/login)

@@ -166,6 +166,7 @@
   - [etc...](https://laravel.com/docs/8.x)
 
 - PHP Design Pattern
+  - [Repository Pattern](https://dev.to/jsf00/implement-crud-with-laravel-service-repository-pattern-1dkl)
 
 - Tools & Technologies
   - Babel

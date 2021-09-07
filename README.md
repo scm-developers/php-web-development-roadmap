@@ -114,24 +114,28 @@
   - Log
   - Mail
   - Component
-
-## Web Server
-
-- Apache
-- Nginx
+- Tools
+  - [Visual Studio Code](https://youtu.be/ifTF3ags0XI)
+  - [MYSQL WorkBench](https://youtu.be/chezeWdTHbo)
+- Web Server
+  - Apache
+  - Nginx
 
 ## Advance
 
 - Coding Style Guide
-  - PHP
-  - Javascript
-  - CSS
+  - [PHP](https://github.com/jupeter/clean-code-php)
+  - [Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [CSS](https://dev.to/maimohamed/css-clean-code-5d3p)
 
 - Database Normalization
-  - First Normal Form
-  - Second Normal Form
-  - Thrid Normal Form
-  - etc...
+  - [Introduction to normalization](https://www.studytonight.com/dbms/database-normalization.php)
+  - [First Normal Form](https://www.studytonight.com/dbms/first-normal-form.php)
+  - [Second Normal Form](https://www.studytonight.com/dbms/second-normal-form.php)
+  - [Thrid Normal Form](https://www.studytonight.com/dbms/third-normal-form.php)
+  - [Boyce-Codd Normal Form (BCNF)](https://www.studytonight.com/dbms/boyce-codd-normal-form.php) 
+  - [Fourth Normal Form (4NF)](https://www.studytonight.com/dbms/fourth-normal-form.php)
+  - [Fifth Normal Form (5NF)](https://www.studytonight.com/dbms/fifth-normal-form.php)
 
 - Unix Command (eg. Linux, Mac)
 

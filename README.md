@@ -10,6 +10,7 @@
 - [Bootstrap](https://getbootstrap.com/)
 - Git (VCS - Verion Control System)
   - [အခန်း (၅) – VERSION CONTROL SYSTEM](https://eimaung.com/rockstar-developer/) [PDF]
+- [PHP Environment Setup](https://github.com/scm-developers/resources/raw/main/docs/PHP,%20Apache,%20Mysql%20download%20Updated.pptx)
 - Learn PHP Basic
   - [Variable](https://www.php.net/manual/en/language.variables.variable.php)
   - [Constants](https://www.php.net/manual/en/language.constants.php)
@@ -62,7 +63,7 @@
     - $_SERVER
     - $_ENV
     - etc...
-  - Regular Expression (optional)
+  - [Regular Expression (optional)](https://github.com/scm-developers/resources/raw/main/docs/RegularExpressionsManual.xlsx)
   - lambda function
   - Closure
   - [include](https://www.php.net/manual/en/function.include.php#function.include), include one, require, require one
@@ -98,22 +99,28 @@
   - File Autoload
   - Namespace
   - MVC Design Pattern
-- Learn Laravel
-  - Route
-  - Controller
-  - View
-  - Model
-  - Middleware
-  - Session
-  - Cookie
-  - Blade
-  - Gate & Policies
-  - Eloquent
-  - Eager Loading
-  - Softdelete
-  - Log
-  - Mail
-  - Component
+- Learn Laravel Basic
+  - [Routing](https://laravel.com/docs/8.x/routing)
+  - [Controller](https://laravel.com/docs/8.x/controllers)
+  - [View | Blade Template](https://laravel.com/docs/8.x/blade)
+  - [Model](https://laravel.com/docs/8.x/eloquent)
+  - [Migration](https://laravel.com/docs/8.x/migrations)
+  - [Seeding](https://laravel.com/docs/8.x/seeding)
+  - [Seeding](https://laravel.com/docs/8.x/seeding)
+  - [Factories](https://laravel.com/docs/8.x/database-testing#defining-model-factories)
+  - [Database: Query Builder](https://laravel.com/docs/8.x/queries#logical-grouping)
+  - [Validation](https://laravel.com/docs/8.x/validation)
+  - [Session](https://laravel.com/docs/8.x/session)
+  - [Middleware](https://laravel.com/docs/8.x/middleware)
+  - [Authentication](https://laravel.com/docs/8.x/authentication)
+  - [Authorization](https://laravel.com/docs/8.x/authorization)
+    - Middleware
+    - Gate
+  - [Eager Loading](https://laravel.com/docs/8.x/eloquent-relationships#eager-loading)
+  - [Softdelete](https://laravel.com/docs/8.x/eloquent#soft-deleting)
+  - [Logging](https://laravel.com/docs/8.x/logging)
+  - [Mail](https://laravel.com/docs/8.x/mail)
+  - [Component](https://laravel.com/docs/8.x/blade#components)
 - Tools
   - [Visual Studio Code](https://youtu.be/ifTF3ags0XI)
   - [MYSQL WorkBench](https://youtu.be/chezeWdTHbo)
@@ -121,7 +128,31 @@
   - Apache
   - Nginx
 
-## Advance
+## Beyond
+
+- [Regular Expression](https://github.com/scm-developers/resources/raw/main/docs/RegularExpressionsManual.xlsx)
+  - [regexr](https://regexr.com/)
+  - [regex101](https://regex101.com/)
+- HTML5
+  - [Semantic Element](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  - [Canvas Graphics](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  - [SVG Graphics](https://www.w3schools.com/html/html5_svg.asp)
+  - [Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
+- CSS3
+  - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [Animation](https://css-tricks.com/almanac/properties/a/animation/)
+  - [Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+  - [CSS Functions](https://www.w3schools.com/cssref/css_functions.asp)
+- JavaScript
+  - [JavaScript Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+  - [JavsScript Cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
+  - [JavsScript Session Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
+  - [ES6 Feature](http://es6-features.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+  - [Tailwindcss Docs](https://tailwindcss.com/docs)
+  - [Tailwind Labs](https://www.youtube.com/tailwindlabs)
+- [Laravel 8 from Scratch](https://laracasts.com/series/laravel-8-from-scratch)
 
 - Coding Style Guide
   - [PHP](https://github.com/jupeter/clean-code-php)
@@ -138,6 +169,9 @@
   - [Fifth Normal Form (5NF)](https://www.studytonight.com/dbms/fifth-normal-form.php)
 
 - Unix Command (eg. Linux, Mac)
+  - Essential Command
+  - Nano
+  - VIM
 
 - Docker
   - Image
@@ -147,45 +181,39 @@
   - Volume
   - Network
 
-- Design
-  - CSS Flex
-  - CSS Grid
-  - [Tailwind CSS](https://tailwindcss.com)
-
 - Vue.js
   - [Fundamentals](https://www.youtube.com/watch?v=NVnFWzVEBMA&list=PLgzczcvIi04PRf2h4ofMfNWP69dmBfXNr)
   - [Components](https://www.youtube.com/watch?v=J8v0rsW2C98&list=PLgzczcvIi04N6k_tSvG9YAMr62xyaQrhz)
   - [Router](https://www.youtube.com/watch?v=A8_H0HjZgsk&list=PLgzczcvIi04Pd-PiyapkFno4EsboKvfPt)
   - [Laravel Vue SPA](https://www.youtube.com/watch?v=AFxm8YBurPg&list=PLgzczcvIi04OvLaYg3AzYeMf8xGMkz_qU)
   - [Inertia.js](https://www.youtube.com/watch?v=IeMoVOHhMic&list=PLgzczcvIi04MR4fDn7RczGK3JXcI01Rss)
+  - Nuxt
 
-- Laravel
-  - [Collection](https://laravel.com/docs/8.x/collections#introduction)
-  - [Localization](https://laravel.com/docs/8.x/localization)
-  - Observer
-  - Testing (TDD)
-  - Event
-  - Listener
-  - Schedule
-  - [etc...](https://laravel.com/docs/8.x)
+- Laravel Testing
+  - [HTTP Tests](https://laravel.com/docs/8.x/http-tests)
+  - [Database Tests](https://laravel.com/docs/8.x/database-testing)
+  - [Browser Tests](https://laravel.com/docs/8.x/dusk)
+
+- Laravel Advanced
+  - Service Container
+  - Service Provider
 
 - PHP Design Pattern
   - [Repository Pattern](https://dev.to/jsf00/implement-crud-with-laravel-service-repository-pattern-1dkl)
+  - Factory
+  - Facade
+
+- PHP Design Priniciple
+  - SOLID
+  - DRY
 
 - Tools & Technologies
   - Babel
   - Webpack
   - Laravel Mix
 
-- Livewire (optional)
-- Alpine (optional)
+- Livewire
+- Alpine
 
-## Recommand Resources
-- PHP
-  - [PHP Basic (Book)](https://eimaung.com/professional-web-developer) By Ei Mg
-  - [PHP Basic (Video)](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW) By Codecourse
-  - [PHP Basic (Video)](https://laracasts.com/series/php-for-beginners) By JEFFREY WAY
-
-- Framework (Laravel)
-  - [Laravel Crash Course 2020 (video)](https://www.youtube.com/watch?v=MFh0Fd7BsjE)
-  - [laravel-6-from-scratch (video)](https://laracasts.com/series/laravel-6-from-scratch)
+More - 
+- [Manuals](https://github.com/scm-developers/manuals)

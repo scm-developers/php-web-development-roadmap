@@ -34,6 +34,7 @@
     - Logical operators
     - Ternary Operator
     - Null Coalescing Operator
+    - Null Coalescing Assignment Operators
   - [Conditional Statement](https://www.php.net/manual/en/control-structures.if.php)
     - if
     - else
@@ -49,7 +50,7 @@
     - foreach
   - [Function](https://www.php.net/manual/en/functions.user-defined.php)
     - define function
-    - arguments
+    - arguments/parameters
     - return
     - [variable function](https://www.php.net/manual/en/functions.variable-functions.php#functions.variable-functions)
     - built-in functions
@@ -64,7 +65,7 @@
     - $_ENV
     - etc...
   - [Regular Expression (optional)](https://github.com/scm-developers/resources/raw/main/docs/RegularExpressionsManual.xlsx)
-  - lambda function
+  - Lambda function
   - Closure
   - [include](https://www.php.net/manual/en/function.include.php#function.include), include one, require, require one
 
@@ -91,7 +92,6 @@
   - Abstract
   - Trait
   - Method Overriding
-  - Static
 - Learn autoload, namespce, MVC
   - Class Map Autoload
   - PSR-0 Autoload
@@ -157,7 +157,7 @@
 - Coding Style Guide
   - [PHP](https://github.com/jupeter/clean-code-php)
   - [Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - [CSS](https://dev.to/maimohamed/css-clean-code-5d3p)
+  - [CSS](https://css-tricks.com/bem-101/)
 
 - Database Normalization
   - [Introduction to normalization](https://www.studytonight.com/dbms/database-normalization.php)
